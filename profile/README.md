@@ -28,6 +28,15 @@
 
 ## 🚀 主要项目 / Featured Projects
 
+### realtime-vision
+实时物体识别 + 手势数字识别 — 纯 Python 本地推理，采集 / 推理 / 显示三线程解耦，帧率可自定义。
+
+`Python` `MediaPipe` `OpenCV` `Tkinter`
+
+🔗 https://github.com/ayase-yukio-org/realtime-vision
+
+---
+
 ### MoeFace
 基于 FaceNet + LBP 的动漫人脸识别系统，支持图片 / 视频 / 摄像头实时识别。
 
